@@ -18,7 +18,7 @@ This project was a music project using the Deezer API
 ## Development Status
 
 - [ ] In active development
-- [ X ] No longer actively developed
+- [X] No longer actively developed
 - [ ] Completed
 
 This is a very old project.
